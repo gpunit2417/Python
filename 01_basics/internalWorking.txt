@@ -1,0 +1,25 @@
+***Python internal working:
+
+1. Python code ---> Byte code ---> Python virtual machine
+
+2. Byte code is mostly hidden.
+
+3. It is mostly visible when two files are indulge in a particular task like when used import statements.
+
+4. Compiles to byte code which is low level and platform independent.
+
+5. Byte code runs faster
+
+6. .pyc is compiled python (frogen binaries)
+
+7. __pycache__ works only for imported files and not for top level files which don't includes any import statements
+
+### Python virtual machine
+
+1. Code loop to iterate to byte code.
+
+2. Runtime engine
+
+3. Also known as Python interpreter
+
+4. Byte code is not machine code but a python specific interpretation

@@ -18,3 +18,5 @@ print(x)
 print(y)
 # 20
 # 10
+
+# same reason for integers as well for its immutability.

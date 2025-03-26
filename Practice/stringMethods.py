@@ -16,5 +16,7 @@ str2 = "     StringMethods       "
 # print(len(str2))
 # print(str2[len(str2) - 1])
 
-print(str1.split())
-print(str1.encode("utf-8"))
+# print(str1.split())
+# print(str1.encode("utf-8"))
+print(str2.rstrip())
+print(str2.lstrip())

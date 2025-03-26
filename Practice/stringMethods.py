@@ -1,6 +1,8 @@
 str = "programming"
 str1 = "LANGUAGE"
 str2 = "     StringMethods       "
+str3 = "3"
+str4 = "punit23"
 # print(str.upper())
 # print(str2.lower())
 # print(str1.capitalize())
@@ -18,5 +20,7 @@ str2 = "     StringMethods       "
 
 # print(str1.split())
 # print(str1.encode("utf-8"))
-print(str2.rstrip())
-print(str2.lstrip())
+# print(str2.rstrip())
+# print(str2.lstrip())
+print(int(str3))
+print(type(str3))
